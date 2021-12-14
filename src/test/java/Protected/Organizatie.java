@@ -11,4 +11,7 @@ public class Organizatie extends Voluntar {
         metodaProtected();
         metodaDefault();
     }
+    public void method2() {
+
+    }
 }
